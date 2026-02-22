@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/join",
+      "destination": "https://sequar.addisfutureslab.com",
+      "permanent": false
+    }
+  ]
+}
