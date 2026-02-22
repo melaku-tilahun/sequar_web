@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.sequar.app",
-      "sha256_cert_fingerprints": ["84:50:F9:97:89:0C:00:8E:FE:23:5C:81:CB:14:6F:48:15:1B:A0:38:74:9D:EE:AA:3E:78:B0:30:05:F3:E6:C3"]
+      "sha256_cert_fingerprints": ["C1:A4:69:2B:46:27:6A:30:15:9B:73:D0:F5:05:B0:66:B7:74:9C:15:A9:6C:0B:09:57:74:FE:0A:B6:1A:CA:DB"]
     }
   }
 ]
